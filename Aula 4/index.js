@@ -27,4 +27,3 @@ console.log(nome)
 // Utilizamos camelCase - inicia com letra minuscula depois com a letra maiuscula
 // As Variáveis são Case-sensitive tem diferença entre letras minusculas e maiusculas
 // Não utiliza var sempre utiliza let 
-
