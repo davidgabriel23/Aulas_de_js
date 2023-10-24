@@ -15,8 +15,12 @@ const name1 = 'David';
 console.log(name1)
 
 // Oque nao pode fazer em uma constante é mudar o valor dela 
-
+// + - */
 const primeiroNumero = 5;
 const segundoNumero = 10; 
-const conta = primeiroNumero * segundoNumero;
-console.log(conta)
+const resultado = primeiroNumero * segundoNumero;
+const resultandoQuadriplicado = resultado * 4;
+let resultadoTriplicado = resultado * 3;
+console.log(resultadoTriplicado)
+
+console.log(typeof primeiroNumero) // Usar typeof para saber de que tipo é a cost se é string ou number/
