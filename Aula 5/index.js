@@ -23,4 +23,4 @@ const resultandoQuadriplicado = resultado * 4;
 let resultadoTriplicado = resultado * 3;
 console.log(resultadoTriplicado)
 
-console.log(typeof primeiroNumero) // Usar typeof para saber de que tipo é a cost se é string ou number/
+console.log(typeof primeiroNumero) // Usar typeof para saber de que tipo é  a const/
